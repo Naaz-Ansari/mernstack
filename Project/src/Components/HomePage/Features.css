@@ -1,0 +1,16 @@
+.feature {
+    height: 60vh;
+    background-color: white;
+    padding-left: 100px;
+  }
+  
+  .f-body {
+    background-color: white;
+  }
+  .f-card {
+    border: white 2px solid;
+  }
+  
+  .f-text {
+    color: black;
+  }

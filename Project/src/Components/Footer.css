@@ -1,0 +1,15 @@
+footer {
+    text-align: center;
+    background-color: rgb(35, 39, 49);
+    height: 400px;
+    padding: 50px;
+    color: #f2be8d;
+  }
+  .About {
+    font-size: 15px;
+  }
+  
+  .Contact {
+    color: aliceblue;
+    margin: 5px;
+  }
